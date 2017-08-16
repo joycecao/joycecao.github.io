@@ -1408,8 +1408,8 @@
 	}
 
 	body {
-		<!-- background: #f4f4f4; -->
-		background-image: url('https://www.universetoday.com/wp-content/uploads/2011/10/IC-1396-by-John-R.-Taylor.jpg');
+		background: #f4f4f4;
+		background-image: url('background.jpg');
 		background-repeat: no-repeat;
    		background-position: top center;
     		background-attachment: fixed;
