@@ -1,0 +1,9 @@
+---
+layout: page
+title:  "testing page"
+date:   2017-08-16 16:52:07
+categories: test
+tags: test
+image: /images/pic02.jpg
+---
+this is a test to see how this works 
